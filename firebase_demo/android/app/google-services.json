@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883745726689",
+    "project_id": "firebase-abhishek",
+    "storage_bucket": "firebase-abhishek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883745726689:android:2798e662e074edcfe617a0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883745726689-vehjgshvmckv4m9dvl62nulhfu24h0e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMhPKDaujJ-0b5OtCZTmFz28MEGz0Y6jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883745726689-vehjgshvmckv4m9dvl62nulhfu24h0e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

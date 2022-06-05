@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38460385050",
+    "project_id": "github-project-321",
+    "storage_bucket": "github-project-321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38460385050:android:a09c7ffa9598a72603aea3",
+        "android_client_info": {
+          "package_name": "com.example.quiz_questions_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38460385050-4aipg4v4r167s055n3kj1a82m5m2o9km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUeKzjfzK6mN7MqfZgSbeX7wieQ-bQ33w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38460385050-4aipg4v4r167s055n3kj1a82m5m2o9km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

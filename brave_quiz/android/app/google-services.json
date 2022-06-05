@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "384296525636",
+    "firebase_url": "https://brave-quiz-321-default-rtdb.firebaseio.com",
+    "project_id": "brave-quiz-321",
+    "storage_bucket": "brave-quiz-321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384296525636:android:8f320cf9fa646bbba28111",
+        "android_client_info": {
+          "package_name": "com.example.brave_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384296525636-ss9k43v2mvrkrlq8paup38mb3b1t7fi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brave_quiz",
+            "certificate_hash": "6f058f25f7bbc7b9074c48bd8b4f02641fec51b9"
+          }
+        },
+        {
+          "client_id": "384296525636-ecnhi7v25e9uiucvcmb9fhaf12j7ukp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDremNp5mB_OyVhBw0b5bYrzQNMoBMWGUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384296525636-ecnhi7v25e9uiucvcmb9fhaf12j7ukp3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "384296525636-ruhnvtalniqq4fd6boai65bjscres15h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.braveQuiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
